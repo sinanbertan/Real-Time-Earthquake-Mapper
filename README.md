@@ -56,7 +56,8 @@ Watch a demonstration of the Real Time Earthquake Mapper in action: [Demo Video]
    git clone https://github.com/yourusername/real-time-earthquake-mapper.git
 
 * Open index.html in your web browser. You can use live server extention in VScode.
-Usage
+* 
+## Usage
 * Launch the application by opening index.html in your web browser.
 * Use the sidebar filters to customize earthquake data based on your preferences.
 * Explore the interactive map, and click on earthquake markers to access detailed information.
