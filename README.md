@@ -1,7 +1,7 @@
 
 # Real-Time-Earthquake-Mapper
 
-![Project Image](link_to_project_image.png)
+![Project Image](imgs/CP-Mapping-Earthquakes.jpg)
 
 Real Time Earthquake Mapper is a web application that empowers users to explore and visualize up-to-date earthquake data in real-time, offering valuable insights into seismic activity worldwide. This interactive mapping tool leverages cutting-edge technologies to provide an intuitive and informative experience for users interested in monitoring and analyzing earthquakes.
 
@@ -20,7 +20,7 @@ Real Time Earthquake Mapper is a web application that empowers users to explore 
 
 ## Demo
 
-Watch a demonstration of the Real Time Earthquake Mapper in action: [Demo Video](link_to_demo_video)
+Watch a demonstration of the Real Time Earthquake Mapper in action: [Demo Video](imgs/22.09.2023_10.30.42_REC.mp4)
 ## Features
 
 - **Real-Time Data**: The application fetches earthquake data in real-time from the United States Geological Survey (USGS) API, ensuring that users have access to the latest seismic information.
@@ -63,9 +63,9 @@ Usage
 * Experiment with different map styles, filters, and geospatial analysis tools to gain insights into seismic activity.
 # Screenshots
 
-![Project Image](link_to_project_image.png)
-![Project Image](link_to_project_image.png)
-![Project Image](link_to_project_image.png)
+![Project Image](imgs/git.png)
+![Project Image](imgs/git2.png)
+![Project Image](imgs/github1-.png)
 ## Contributing
 * Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
     1. Fork the repository.
